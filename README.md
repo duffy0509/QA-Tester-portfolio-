@@ -1,6 +1,6 @@
 # Swag Labs QA Portfolio: Playwright + TypeScript
 
-[![Playwright Tests](https://github.com/duffy0509/saucedemo-playwright-qa/actions/workflows/ci.yml/badge.svg)](https://github.com/duffy0509/saucedemo-playwright-qa/actions/workflows/ci.yml)
+[![Playwright Tests](https://github.com/duffy0509/QA-Tester-portfolio-/actions/workflows/ci.yml/badge.svg)](https://github.com/duffy0509/QA-Tester-portfolio-/actions/workflows/ci.yml)
 
 A complete QA project for the [Swag Labs](https://www.saucedemo.com) demo store, from test planning to automated tests that run on every push.
 
@@ -58,8 +58,8 @@ The `problem_user` account has deliberate defects. Each one is logged in [`docs/
 You need [Node.js](https://nodejs.org/) 20 or newer and [Git](https://git-scm.com/). These commands work the same in PowerShell, macOS Terminal or Linux.
 
 ```
-git clone https://github.com/duffy0509/saucedemo-playwright-qa.git
-cd saucedemo-playwright-qa
+git clone https://github.com/duffy0509/QA-Tester-portfolio-.git
+cd QA-Tester-portfolio-
 npm install
 npx playwright install chromium
 npx playwright test
